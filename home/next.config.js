@@ -12,7 +12,7 @@ module.exports = {
         destination: `${BLOG_URL}/blog/:path*`,
       },
       {
-        source: "/about",
+        source: "/aboot",
         destination: "https://planetscale.com/about",
       },
     ];
