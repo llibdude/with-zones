@@ -13,7 +13,7 @@ module.exports = {
       },
       {
         source: "/aboot",
-        destination: "https://planetscale.com/about",
+        destination: "https://planetscale-com.vercel.app/about",
       },
     ];
   },
